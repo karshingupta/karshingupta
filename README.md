@@ -1,3 +1,2 @@
 # Hi, I'm Karshin. 
-I bring data to life. 
-
+I turn complex data into clear, strategic solutions.
